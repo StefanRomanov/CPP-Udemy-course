@@ -37,4 +37,5 @@
 *.iml
 *.ipr
 
-.cmake-build-debug
+### CMake
+cmake-build-debug/
